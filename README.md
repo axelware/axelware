@@ -2,7 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Daniel da Silva Ribeiro, tenho 20 anos e sou natural de Itanhaém, litoral de São Paulo. Concluí o ensino médio na Escola Dagoberto Nogueira da Fonseca, juntamente com o curso técnico em Informática pela Etec Adolpho Berezin, onde tive meu primeiro contato mais aprofundado com o universo da tecnologia.
+
+Atualmente, estou ampliando meus conhecimentos cursando simultaneamente duas graduações: Cibersegurança e Análise e Desenvolvimento de Sistemas na Anhanguera. Tenho grande interesse pelas áreas de segurança da informação, redes e desenvolvimento de software. Sou uma pessoa curiosa, comprometida e apaixonada por tecnologia, sempre buscando aprender novas ferramentas, linguagens e soluções inovadoras.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
