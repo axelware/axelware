@@ -133,14 +133,6 @@ Atualmente, estou ampliando meus conhecimentos cursando simultaneamente duas gra
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    alt="React" 
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-/>
-
 
 <br/>
 <br/>
