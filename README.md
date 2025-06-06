@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Axel Ware
 
-**`Desenvolvedora FullStack`**
-
 Me chamo Daniel da Silva Ribeiro, tenho 20 anos e sou natural de Itanhaém, litoral de São Paulo. Concluí o ensino médio na Escola Dagoberto Nogueira da Fonseca, juntamente com o curso técnico em Informática pela Etec Adolpho Berezin, onde tive meu primeiro contato mais aprofundado com o universo da tecnologia.
 
 Atualmente, estou ampliando meus conhecimentos cursando simultaneamente duas graduações: Cibersegurança e Análise e Desenvolvimento de Sistemas na Anhanguera. Tenho grande interesse pelas áreas de segurança da informação, redes e desenvolvimento de software. Sou uma pessoa curiosa, comprometida e apaixonada por tecnologia, sempre buscando aprender novas ferramentas, linguagens e soluções inovadoras.
