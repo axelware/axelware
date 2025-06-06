@@ -1,16 +1,21 @@
-## Hi there 👋
+# ✅ Task Manager API
 
-<!--
-**axelware/axelware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uma API simples para gerenciamento de tarefas, com autenticação básica, feita com Flask.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias
+
+- Python 3.11
+- Flask
+- SQLite
+- dotenv
+
+---
+
+## 🚀 Como executar
+
+1. Clone o projeto:
+```bash
+git clone https://github.com/seunome/task-manager.git
+cd task-manager
