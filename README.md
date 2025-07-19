@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Axel Ware
+# 👩🏻‍💻 Daniel Ribeiro
 
 Me chamo Daniel, tenho 20 anos e sou natural de Itanhaém, litoral de São Paulo. Concluí o ensino médio na Escola Dagoberto Nogueira da Fonseca, juntamente com o curso técnico em Informática pela Etec Adolpho Berezin, onde tive meu primeiro contato mais aprofundado com o universo da tecnologia.
 
