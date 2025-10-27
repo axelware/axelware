@@ -1,8 +1,10 @@
 # 
 
-Me chamo Daniel, tenho 20 anos e sou natural de Itanhaém, litoral de São Paulo. Concluí o ensino médio na Escola Dagoberto Nogueira da Fonseca, junto com o curso técnico em Informática pela Etec Adolpho Berezin, onde aprofundei meu interesse pelo universo da tecnologia.
+Me chamo Daniel, tenho 20 anos, natural de Itanhaém, SP. Sou técnico em Informática pela Etec Adolpho Berezin, onde tive meu primeiro contato aprofundado com tecnologia e desenvolvimento de sistemas.
 
-Atualmente, curso simultaneamente Cibersegurança e Análise e Desenvolvimento de Sistemas na Anhanguera. Tenho interesse especial em segurança da informação, redes e desenvolvimento de software. Sou curioso, comprometido e apaixonado por tecnologia, sempre buscando aprender novas ferramentas, linguagens e soluções inovadoras.
+Atualmente, curso simultaneamente Cibersegurança e Análise e Desenvolvimento de Sistemas na Anhanguera, com foco em segurança da informação, redes, programação e soluções digitais. Tenho experiência prática em suporte técnico, desenvolvimento de software e projetos acadêmicos que envolvem resolução de problemas e inovação tecnológica.
+
+Sou proativo, curioso e apaixonado por tecnologia, sempre em busca de aprender novas ferramentas, linguagens e metodologias para criar soluções eficientes e seguras.
 
 </a>
     </a>
