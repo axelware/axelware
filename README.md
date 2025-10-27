@@ -1,4 +1,4 @@
-# 
+# Daniel Ribeiro
 
 Me chamo Daniel, tenho 20 anos, natural de Itanhaém, SP. Sou técnico em Informática pela Etec Adolpho Berezin, onde tive meu primeiro contato aprofundado com tecnologia e desenvolvimento de sistemas.
 
