@@ -22,8 +22,6 @@ Projeto acadêmico de gerenciamento de dados, com backend em Java e frontend bá
 ### [Smart Pantry App](https://github.com/axelware/smart-pantry-app)  
 Aplicativo para controle de despensa pessoal usando **Vue.js** no frontend e integração com banco de dados MySQL.
 
-*(Você pode adicionar mais projetos relevantes aqui)*
-
 ---
 
 ## 📫 Contato
