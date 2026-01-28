@@ -1,37 +1,9 @@
-# Olá, eu sou o Daniel 👋
+<p>👨‍💻 Software Engineer at <a href="https://www.itau.com.br/" target="blank_">Itaú Unibanco</a>. 3+ years of experience.</p>
+<p>🎓 Graduated in Systems Analysis and Development at <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
+<p>✈️ Lived in Canada (Toronto) for 3 months on an exchange program </a></p>
+<p>☁️ <a href="https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile">1x AWS Certified</a></p>
+<p>🔠 <a href="https://www.efset.org/cert/KjKPY3">C1 Advanced English Level</a></p>
+<p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (164k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (63k+), <a href="https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug" target="_blank">Youtube</a> (17k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (51k+)</p>
+<hr>
 
-Sou desenvolvedor **Back-End Júnior** com foco em **Java**, **Spring Boot** e **segurança da informação**. Estou finalizando minha graduação em **Cibersegurança** e buscando oportunidades de aprendizado e crescimento na área de desenvolvimento.
-
----
-
-## 💻 Tecnologias & Skills
-
-- **Linguagens:** Java, JavaScript, Python  
-- **Frameworks & Bibliotecas:** Spring Boot, Vue.js  
-- **Banco de dados:** MySQL, PostgreSQL  
-- **Ferramentas:** Git, GitHub, VSCode, Postman  
-- **Conceitos:** Orientação a Objetos, REST APIs, Segurança em Aplicações Web
-
----
-
-## 📂 Projetos
-
-### [Sistema Web](https://github.com/axelware/sistemaweb)  
-Projeto acadêmico de gerenciamento de dados, com backend em Java e frontend básico em HTML/CSS.
-
-### [Smart Pantry App](https://github.com/axelware/smart-pantry-app)  
-Aplicativo para controle de despensa pessoal usando **Vue.js** no frontend e integração com banco de dados MySQL.
-
----
-
-## 📫 Contato
-
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-- E-mail: seuemail@gmail.com  
-- GitHub: [@axelware](https://github.com/axelware)
-
----
-
-## ⚡ Objetivo
-
-Busco **estágio ou oportunidades júnior** em desenvolvimento Back-End, onde eu possa aplicar meus conhecimentos em programação, aprender novas tecnologias e contribuir para projetos reais.
+[![My Skills](https://skillicons.dev/icons?i=java,go,python,kotlin,spring,kafka,aws,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
