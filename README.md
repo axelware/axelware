@@ -1,110 +1,39 @@
-# Daniel Ribeiro
+# Olá, eu sou o Daniel 👋
 
-Me chamo Daniel, tenho 20 anos, natural de Itanhaém, SP. Sou técnico em Informática pela Etec Adolpho Berezin, onde tive meu primeiro contato aprofundado com tecnologia e desenvolvimento de sistemas.
-
-Atualmente, curso simultaneamente Cibersegurança e Análise e Desenvolvimento de Sistemas na Anhanguera, com foco em segurança da informação, redes, programação e soluções digitais. Tenho experiência prática em suporte técnico, desenvolvimento de software e projetos acadêmicos que envolvem resolução de problemas e inovação tecnológica.
-
-Sou proativo, curioso e apaixonado por tecnologia, sempre em busca de aprender novas ferramentas, linguagens e metodologias para criar soluções eficientes e seguras.
-
-</a>
-    </a>
-    <a href="https://github.com/axelware?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/axelwere?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Sou desenvolvedor **Back-End Júnior** com foco em **Java**, **Spring Boot** e **segurança da informação**. Estou finalizando minha graduação em **Cibersegurança** e buscando oportunidades de aprendizado e crescimento na área de desenvolvimento.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 💻 Tecnologias & Skills
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+- **Linguagens:** Java, JavaScript, Python  
+- **Frameworks & Bibliotecas:** Spring Boot, Vue.js  
+- **Banco de dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git, GitHub, VSCode, Postman  
+- **Conceitos:** Orientação a Objetos, REST APIs, Segurança em Aplicações Web
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 📂 Projetos
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=axelware&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### [Sistema Web](https://github.com/axelware/sistemaweb)  
+Projeto acadêmico de gerenciamento de dados, com backend em Java e frontend básico em HTML/CSS.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### [Smart Pantry App](https://github.com/axelware/smart-pantry-app)  
+Aplicativo para controle de despensa pessoal usando **Vue.js** no frontend e integração com banco de dados MySQL.
 
-</p>
+*(Você pode adicionar mais projetos relevantes aqui)*
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+- E-mail: seuemail@gmail.com  
+- GitHub: [@axelware](https://github.com/axelware)
+
+---
+
+## ⚡ Objetivo
+
+Busco **estágio ou oportunidades júnior** em desenvolvimento Back-End, onde eu possa aplicar meus conhecimentos em programação, aprender novas tecnologias e contribuir para projetos reais.
