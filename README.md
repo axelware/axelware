@@ -5,4 +5,4 @@
 <p>🎥 Compartilho conteúdos de tecnologia no GitHub e blogs sobre desenvolvimento e segurança.</p>
 <hr>
 
-[![Minhas Skills](https://skillicons.dev/icons?i=java,cs,html,python,react,mysql,sql,git,github,js,py)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=java,cs,html,python,react,mysql,git,github,js,py)](https://skillicons.dev)
